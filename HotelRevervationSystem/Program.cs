@@ -87,6 +87,7 @@ namespace HotelRevervationSystem
 
                 do
                 {
+                    //jamer pogi
                     Console.SetCursorPosition(30, 15);
                     Console.BackgroundColor = ConsoleColor.Black;
 
